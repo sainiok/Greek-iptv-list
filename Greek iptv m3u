@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ert1" tvg-name="None" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="ΕΘΝΙΚΑ",ERT1 HD
+#EXTINF:-1 tvg-id="ert1" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-1-gr.svg" group-title="ΕΘΝΙΚΑ",ERT1 HD
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-#EXTINF:-1 tvg-id="ert2" tvg-name="None" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="ΕΘΝΙΚΑ",ERT2 HD
+#EXTINF:-1 tvg-id="ert2" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-2-spor-gr.svg" group-title="ΕΘΝΙΚΑ",ERT2 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert3" tvg-name="None" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="ΕΘΝΙΚΑ",ERT3 HD
+#EXTINF:-1 tvg-id="ert3" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-3-gr.svg" group-title="ΕΘΝΙΚΑ",ERT3 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-id="mega" tvg-name="None" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΕΘΝΙΚΑ",MEGA HD
+#EXTINF:-1 tvg-id="mega" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega_gr.png" group-title="ΕΘΝΙΚΑ",MEGA HD
 https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ant1" tvg-name="None" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΕΘΝΙΚΑ",ANT1 HD
 http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
@@ -99,7 +99,7 @@ https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-id="Euronews Greek" tvg-name="None" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://gr.euronews.com/live?fbclid=IwVERDUAMXsBVleHRuA2FlbQIxMAABHl33851tIHAj6vJ2Pqhe11UXKSkqznn6pgSOcm-jDOY0LXZ08XZX7lk8CQ3u_aem_Dnvio_hI3lAHj8RSTGf0eg
-#EXTINF:-1 tvg-id="mega" tvg-name="None" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΕΙΔΗΣΕΙΣ",MEGA NEWS
+#EXTINF:-1 tvg-id="mega" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega-news-gr.png" group-title="ΕΙΔΗΣΕΙΣ",MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 tvg-id="pronews" tvg-name="None" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg" group-title="ΕΙΔΗΣΕΙΣ",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
