@@ -95,7 +95,7 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 tvg-id="ertworld" tvg-name="None" tvg-logo="https://i.imgur.com/Jjds4h5.png" group-title="ΕΙΔΗΣΕΙΣ",ERT WORLD
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ertnews" tvg-name="None" tvg-logo="https://i.imgur.com/XwLTzaF.jpg" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS
+#EXTINF:-1 tvg-id="ertnews" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-news-gr.svg" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-id="Euronews Greek" tvg-name="None" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://gr.euronews.com/live?fbclid=IwVERDUAMXsBVleHRuA2FlbQIxMAABHl33851tIHAj6vJ2Pqhe11UXKSkqznn6pgSOcm-jDOY0LXZ08XZX7lk8CQ3u_aem_Dnvio_hI3lAHj8RSTGf0eg
