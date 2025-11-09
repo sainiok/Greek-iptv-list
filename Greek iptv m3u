@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ert1" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-1-gr.svg" group-title="ΕΘΝΙΚΑ",ERT1 HD
+#EXTINF:-1 tvg-id="ert1" tvg-name="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="ΕΘΝΙΚΑ",ERT1 HD
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-#EXTINF:-1 tvg-id="ert2" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-2-spor-gr.svg" group-title="ΕΘΝΙΚΑ",ERT2 HD
+#EXTINF:-1 tvg-id="ert2" tvg-name="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ERT_2_Spor_Logo_2025.svg/2560px-ERT_2_Spor_Logo_2025.svg.png" group-title="ΕΘΝΙΚΑ",ERT2 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert3" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-3-gr.svg" group-title="ΕΘΝΙΚΑ",ERT3 HD
+#EXTINF:-1 tvg-id="ert3" tvg-name="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/487px-ERT3_logo_2020.svg.png" group-title="ΕΘΝΙΚΑ",ERT3 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="mega" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega_gr.png" group-title="ΕΘΝΙΚΑ",MEGA HD
 https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
@@ -95,7 +95,7 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 tvg-id="ertworld" tvg-name="None" tvg-logo="https://i.imgur.com/Jjds4h5.png" group-title="ΕΙΔΗΣΕΙΣ",ERT WORLD
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
-#EXTINF:-1 tvg-id="ertnews" tvg-name="None" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-news-gr.svg" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS
+#EXTINF:-1 tvg-id="ertnews" tvg-name="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ERT_NEWS_2025.svg/1200px-ERT_NEWS_2025.svg.png" group-title="ΕΙΔΗΣΕΙΣ",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-id="Euronews Greek" tvg-name="None" group-title="ΕΙΔΗΣΕΙΣ",EURONEWS
 https://gr.euronews.com/live?fbclid=IwVERDUAMXsBVleHRuA2FlbQIxMAABHl33851tIHAj6vJ2Pqhe11UXKSkqznn6pgSOcm-jDOY0LXZ08XZX7lk8CQ3u_aem_Dnvio_hI3lAHj8RSTGf0eg
